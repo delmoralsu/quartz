@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/primeranota.md",
+                "file": "content/_index.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "primera",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/primeranota.md",
+                "file": "content/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/primeranota.md",
+                "file": "content/_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/primeranota.md"
+                "file": "content/_index.md"
               }
             }
           }
@@ -161,15 +161,15 @@
   },
   "active": "fdae3cac9bfef439",
   "lastOpenFiles": [
+    "content/templates/post.md",
+    "content/notes/primeranota.md",
+    "notes/images/google-domains.png.md",
+    "content/notes/search.md",
     "content/_index.md",
     "content/notes/custom Domain.md",
     "content/notes/hosting.md",
     "content/notes/CJK + Latex Support (测试).md",
     "content/notes/callouts.md",
-    "content/notes/updating.md",
-    "content/notes/docker.md",
-    "content/notes/config.md",
-    "README.md",
-    "notes/images/google-domains.png.md"
+    "content/notes/updating.md"
   ]
 }
