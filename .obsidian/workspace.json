@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/notes/hosting.md",
+                "file": "content/_index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fdae3cac9bfef439",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/primeranota.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cname",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +78,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/notes/hosting.md",
+                "file": "notes/primeranota.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/notes/hosting.md",
+                "file": "notes/primeranota.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/notes/hosting.md"
+                "file": "notes/primeranota.md"
               }
             }
           }
@@ -147,17 +159,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "85292721330d442f",
+  "active": "fdae3cac9bfef439",
   "lastOpenFiles": [
+    "content/_index.md",
     "content/notes/custom Domain.md",
+    "content/notes/hosting.md",
     "content/notes/CJK + Latex Support (测试).md",
     "content/notes/callouts.md",
     "content/notes/updating.md",
     "content/notes/docker.md",
     "content/notes/config.md",
     "README.md",
-    "notes/images/google-domains.png.md",
-    "content/notes/editing.md",
-    "content/templates/post.md"
+    "notes/images/google-domains.png.md"
   ]
 }
