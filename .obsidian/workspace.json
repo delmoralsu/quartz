@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/notes/config.md",
+                "file": "content/_index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/notes/config.md",
+                "file": "content/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/notes/config.md",
+                "file": "content/_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/notes/config.md"
+                "file": "content/_index.md"
               }
             }
           }
@@ -148,15 +148,15 @@
   },
   "active": "9b37ddee407ade85",
   "lastOpenFiles": [
-    "content/notes/hosting.md",
-    "content/notes/docker.md",
-    "content/notes/custom Domain.md",
-    "notes/images/google-domains.png.md",
-    "content/notes/editing.md",
-    "content/notes/setup.md",
-    "content/notes/showcase.md",
-    "content/notes/troubleshooting.md",
+    "content/templates/post.md",
+    "content/private/private-note.md",
     "content/notes/updating.md",
-    "content/_index.md"
+    "content/notes/troubleshooting.md",
+    "content/notes/showcase.md",
+    "content/notes/setup.md",
+    "content/notes/search.md",
+    "content/notes/preview changes.md",
+    "content/notes/obsidian.md",
+    "content/notes/philosophy.md"
   ]
 }
