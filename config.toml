@@ -1,4 +1,4 @@
-baseURL = "delmoralsu.com/"
+baseURL = "https://delmoralsu.com/"
 languageCode = "en-us"
 googleAnalytics = "G-XYFD95KB4J"
 relativeURLs = false
