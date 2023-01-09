@@ -148,10 +148,15 @@
   },
   "active": "9b37ddee407ade85",
   "lastOpenFiles": [
-    "README.md",
     "content/notes/hosting.md",
     "content/notes/docker.md",
-    "screenshot.png",
-    "static/icon.png"
+    "content/notes/custom Domain.md",
+    "notes/images/google-domains.png.md",
+    "content/notes/editing.md",
+    "content/notes/setup.md",
+    "content/notes/showcase.md",
+    "content/notes/troubleshooting.md",
+    "content/notes/updating.md",
+    "content/_index.md"
   ]
 }
