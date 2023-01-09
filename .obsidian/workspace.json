@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/_index.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/_index.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/_index.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/_index.md"
+                "file": "README.md"
               }
             }
           }
@@ -148,15 +148,15 @@
   },
   "active": "9b37ddee407ade85",
   "lastOpenFiles": [
+    "notes/images/google-domains.png.md",
+    "content/notes/editing.md",
+    "content/notes/docker.md",
+    "content/notes/custom Domain.md",
+    "content/notes/config.md",
+    "content/notes/CJK + Latex Support (测试).md",
+    "content/notes/callouts.md",
     "content/templates/post.md",
-    "content/private/private-note.md",
-    "content/notes/updating.md",
-    "content/notes/troubleshooting.md",
-    "content/notes/showcase.md",
-    "content/notes/setup.md",
-    "content/notes/search.md",
-    "content/notes/preview changes.md",
-    "content/notes/obsidian.md",
-    "content/notes/philosophy.md"
+    "static/icon.png",
+    "content/_index.md"
   ]
 }
